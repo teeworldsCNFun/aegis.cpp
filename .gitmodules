@@ -1,12 +1,12 @@
 [submodule "lib/spdlog"]
 	path = lib/spdlog
-	url = https://ddns.mmotee.worker.dev/gabime/spdlog
+	url = https://ddns.mmotee.workers.dev/gabime/spdlog
 [submodule "lib/json"]
 	path = lib/json
-	url = https://ddns.mmotee.worker.dev/nlohmann/json
+	url = https://ddns.mmotee.workers.dev/nlohmann/json
 [submodule "lib/asio"]
 	path = lib/asio
-	url = https://ddns.mmotee.worker.dev/chriskohlhoff/asio
+	url = https://ddns.mmotee.workers.dev/chriskohlhoff/asio
 [submodule "lib/websocketpp"]
 	path = lib/websocketpp
-	url = https://ddns.mmotee.worker.dev/zeroxs/websocketpp
+	url = https://ddns.mmotee.workers.dev/zeroxs/websocketpp
